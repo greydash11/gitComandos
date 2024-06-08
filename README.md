@@ -1,7 +1,7 @@
 ### comandos git 
 # agregar todos los cambios
 ```bash
-    git add .  
+git add .  
 ```
 # guardar los cambios
 ```bash
